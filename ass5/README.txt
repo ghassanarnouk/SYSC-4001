@@ -1,5 +1,5 @@
 ASSIGNMENT5: I/O and Filesystems
-==========-------===============
+================================
 
 This assignment is the first stage (of potentially many) of a project aimed
 at creating a simple yet functional networked filesystem.  In this assignment,
