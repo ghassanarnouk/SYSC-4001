@@ -15,7 +15,7 @@ Assignment 5: [I/O and File Systems]()<br>
 
 ## Prerequisites
 
-Make sure you have installed [fedora](https://getfedora.org/) on your development machine or any other linux development environment.
+Make sure you have installed [fedora](https://getfedora.org/) or any other linux development environment on your development machine.
 
 ## Authors
 
