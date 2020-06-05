@@ -19,7 +19,7 @@ Make sure you have installed [fedora](https://getfedora.org/) or any other linux
 
 ## Authors
 
-* **Dr. Thomas Kunz**
+* [**Dr. Thomas Kunz**](http://www.sce.carleton.ca/faculty/kunz.html)
 
 ## License
 
