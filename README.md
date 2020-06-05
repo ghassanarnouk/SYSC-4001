@@ -12,3 +12,16 @@ Assignment 2: [Simple Shell]()<br>
 Assignment 3: [POSIX Threads]()<br>
 Assignment 4: [Memory Management]()<br>
 Assignment 5: [I/O and File Systems]()<br>
+
+## Prerequisites
+
+Make sure you have installed [fedora](https://getfedora.org/) on your development machine or any other linux development environment.
+
+## Authors
+
+* **Dr. Thomas Kunz**
+
+## License
+
+***All rights are reserved*** and this repository is ***not*** Open Source or Free.
+You ***cannot*** modify or redistribute this repository without ***explicit*** permission from the copyright holder.
